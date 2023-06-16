@@ -13,6 +13,7 @@ FPS = 60
 
 PADDING = 50
 
+# Note: Width and Height shuld always be the same
 SCREEN_RES = (800, 800)
 
 screen = pygame.display.set_mode(SCREEN_RES)
